@@ -1,7 +1,7 @@
 ---
 layout: post
 title: [논문리뷰] Brain Foundation Models
-date: 2025-09-06 19:20:23 +0900
+date: 2025-09-06 16:50:00 +0900
 category: AI
 ---
 # [논문리뷰] Brain Foundation Models

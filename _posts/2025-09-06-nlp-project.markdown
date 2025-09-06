@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [논문리뷰] Brain Foundation Models
+title: "[논문리뷰] Brain Foundation Models"
 date: 2025-09-06 16:50:00 +0900
 category: jekyll update
 ---
